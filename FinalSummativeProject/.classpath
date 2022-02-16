@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/commons-math3-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/component-mover.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jackson-annotations-2.13.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jackson-core-2.13.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jackson-databind-2.11.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jaudiotagger-2.0.4-20111207.115108-15.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jave-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jcommander-1.30-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/jtransforms-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/table-header-renderer.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/TrackAnalyzer.jar"/>
+	<classpathentry kind="lib" path="/Users/murphylee10/eclipse-workspace/FinalSummativeProject/libraries/wrap-layout.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

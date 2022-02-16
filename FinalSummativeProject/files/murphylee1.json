@@ -1,0 +1,225 @@
+{
+  "routinesList" : [ {
+    "name" : "Hotline Bling",
+    "music" : {
+      "musicPath" : "/Users/murphylee10/Downloads/Drake - Hotline Bling (Lyrics).wav",
+      "bps" : 2.253521126760592
+    },
+    "crew" : {
+      "crewCode" : "vinsanity",
+      "crewName" : "Advanced Crew",
+      "dancersList" : [ {
+        "id" : 1,
+        "name" : "Murphy Lee"
+      }, {
+        "id" : 2,
+        "name" : "Jackson Lee"
+      }, {
+        "id" : 3,
+        "name" : "Kae Kae Lee"
+      }, {
+        "id" : 4,
+        "name" : "Tess Lopez"
+      }, {
+        "id" : 5,
+        "name" : "Ken Lee"
+      }, {
+        "id" : 6,
+        "name" : "Ying Lei Pham"
+      }, {
+        "id" : 7,
+        "name" : "Minh Pham"
+      }, {
+        "id" : 8,
+        "name" : "JJ Pham"
+      }, {
+        "id" : 9,
+        "name" : "Ronnie Pham"
+      } ]
+    },
+    "formationsList" : [ {
+      "xPosList" : [ 538, 616, 456, 694, 378, 773, 299, 852, 220 ],
+      "yPosList" : [ 376, 302, 302, 222, 222, 222, 222, 222, 222 ],
+      "transitionStarts" : 16247000,
+      "transitionEnds" : 21571999
+    }, {
+      "xPosList" : [ 537, 615, 457, 697, 378, 773, 299, 853, 222 ],
+      "yPosList" : [ 141, 222, 222, 378, 378, 222, 222, 142, 143 ],
+      "transitionStarts" : 42782000,
+      "transitionEnds" : 46331999
+    }, {
+      "xPosList" : [ 537, 612, 459, 851, 376, 775, 299, 852, 220 ],
+      "yPosList" : [ 456, 377, 380, 220, 142, 141, 222, 375, 370 ],
+      "transitionStarts" : 83792000,
+      "transitionEnds" : 85566999
+    }, {
+      "xPosList" : [ 616, 460, 538, 695, 383, 770, 299, 853, 220 ],
+      "yPosList" : [ 378, 377, 457, 59, 63, 60, 65, 60, 62 ],
+      "transitionStarts" : 90860583,
+      "transitionEnds" : 96185582
+    }, {
+      "xPosList" : [ 453, 617, 535, 694, 383, 774, 299, 854, 219 ],
+      "yPosList" : [ 60, 61, 223, 455, 456, 453, 452, 454, 460 ],
+      "transitionStarts" : 113068000,
+      "transitionEnds" : 115730499
+    }, {
+      "xPosList" : [ 453, 617, 535, 373, 694, 778, 299, 696, 371 ],
+      "yPosList" : [ 60, 61, 223, 457, 456, 219, 226, 302, 304 ],
+      "transitionStarts" : 142358000,
+      "transitionEnds" : 145907999
+    }, {
+      "xPosList" : [ 462, 615, 534, 376, 693, 779, 295, 930, 147 ],
+      "yPosList" : [ 215, 218, 142, 302, 301, 377, 373, 300, 298 ],
+      "transitionStarts" : 160599000,
+      "transitionEnds" : 162373999
+    }, {
+      "xPosList" : [ 462, 615, 540, 376, 693, 854, 221, 930, 147 ],
+      "yPosList" : [ 215, 218, 303, 302, 301, 224, 222, 300, 298 ],
+      "transitionStarts" : -1,
+      "transitionEnds" : -1
+    } ]
+  }, {
+    "name" : "Hotline Bling 2",
+    "music" : {
+      "musicPath" : "/Users/murphylee10/Downloads/Drake - Hotline Bling (Lyrics).wav",
+      "bps" : 2.253521126760592
+    },
+    "crew" : {
+      "crewCode" : "vinsanity",
+      "crewName" : "Advanced Crew",
+      "dancersList" : [ {
+        "id" : 1,
+        "name" : "Murphy Lee"
+      }, {
+        "id" : 2,
+        "name" : "Jackson Lee"
+      }, {
+        "id" : 3,
+        "name" : "Kae Kae Lee"
+      }, {
+        "id" : 4,
+        "name" : "Tess Lopez"
+      }, {
+        "id" : 5,
+        "name" : "Ken Lee"
+      }, {
+        "id" : 6,
+        "name" : "Ying Lei Pham"
+      }, {
+        "id" : 7,
+        "name" : "Minh Pham"
+      }, {
+        "id" : 8,
+        "name" : "JJ Pham"
+      }, {
+        "id" : 9,
+        "name" : "Ronnie Pham"
+      } ]
+    },
+    "formationsList" : [ {
+      "xPosList" : [ 536, 615, 457, 694, 378, 773, 299, 852, 220 ],
+      "yPosList" : [ 222, 222, 222, 222, 222, 222, 222, 222, 222 ],
+      "transitionStarts" : -1,
+      "transitionEnds" : -1
+    }, {
+      "xPosList" : [ 536, 483, 537, 694, 378, 773, 299, 852, 220 ],
+      "yPosList" : [ 222, 408, 340, 222, 222, 222, 222, 222, 222 ],
+      "transitionStarts" : -1,
+      "transitionEnds" : -1
+    }, {
+      "xPosList" : [ 536, 483, 537, 694, 378, 773, 299, 852, 220 ],
+      "yPosList" : [ 222, 408, 340, 222, 222, 222, 222, 222, 222 ],
+      "transitionStarts" : -1,
+      "transitionEnds" : -1
+    } ]
+  }, {
+    "name" : "Hotline Bling 3",
+    "music" : {
+      "musicPath" : "/Users/murphylee10/Downloads/Drake - Hotline Bling (Lyrics).wav",
+      "bps" : 2.253521126760592
+    },
+    "crew" : {
+      "crewCode" : "Vinsanity",
+      "crewName" : "Intermediate Crew",
+      "dancersList" : [ {
+        "id" : 1,
+        "name" : "Murphy Lee"
+      }, {
+        "id" : 2,
+        "name" : "Jackson Lee"
+      }, {
+        "id" : 3,
+        "name" : "Kae Kae Lee"
+      }, {
+        "id" : 4,
+        "name" : "Tess Lopez"
+      }, {
+        "id" : 5,
+        "name" : "Ken Lee"
+      }, {
+        "id" : 6,
+        "name" : "Dominic Cooper-Clarke"
+      } ]
+    },
+    "formationsList" : [ {
+      "xPosList" : [ 496, 575, 417, 654, 338, 733 ],
+      "yPosList" : [ 222, 222, 222, 222, 222, 222 ],
+      "transitionStarts" : -1,
+      "transitionEnds" : -1
+    } ]
+  } ],
+  "crewList" : [ {
+    "crewCode" : "vinsanity",
+    "crewName" : "Advanced Crew",
+    "dancersList" : [ {
+      "id" : 1,
+      "name" : "Murphy Lee"
+    }, {
+      "id" : 2,
+      "name" : "Jackson Lee"
+    }, {
+      "id" : 3,
+      "name" : "Kae Kae Lee"
+    }, {
+      "id" : 4,
+      "name" : "Tess Lopez"
+    }, {
+      "id" : 5,
+      "name" : "Ken Lee"
+    }, {
+      "id" : 6,
+      "name" : "Ying Lei Pham"
+    }, {
+      "id" : 7,
+      "name" : "Minh Pham"
+    }, {
+      "id" : 8,
+      "name" : "JJ Pham"
+    }, {
+      "id" : 9,
+      "name" : "Ronnie Pham"
+    } ]
+  }, {
+    "crewCode" : "Vinsanity",
+    "crewName" : "Intermediate Crew",
+    "dancersList" : [ {
+      "id" : 1,
+      "name" : "Murphy Lee"
+    }, {
+      "id" : 2,
+      "name" : "Jackson Lee"
+    }, {
+      "id" : 3,
+      "name" : "Kae Kae Lee"
+    }, {
+      "id" : 4,
+      "name" : "Tess Lopez"
+    }, {
+      "id" : 5,
+      "name" : "Ken Lee"
+    }, {
+      "id" : 6,
+      "name" : "Dominic Cooper-Clarke"
+    } ]
+  } ]
+}

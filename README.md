@@ -1,5 +1,5 @@
-# GroupAssist
-GroupAssist is a dance formation tool that will help choreographers with the management of their dance formations for a routine.
+# DanceSync
+DanceSync is a dance formation tool that will help choreographers with the management of their dance formations for a routine.
 
 Features: 
 - Operations: Choreographer accounts supports creating, deleting, and modifying routines, and formations
